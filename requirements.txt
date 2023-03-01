@@ -48,3 +48,7 @@ seaborn==0.10.1
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
+ipympl==0.9.3
+    # Required for "Javascript Error: IPython is not definied in JupyterLab"
+nodejs==0.1.1
+    # Required for "Javascript Error: IPython is not definied in JupyterLab"
